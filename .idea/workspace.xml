@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7010643d-2fb1-4d57-8cd8-8264e5f10365" name="Changes" comment="" />
+    <list default="true" id="7010643d-2fb1-4d57-8cd8-8264e5f10365" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,26 +39,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CollectionsExample">
-    <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframework.collections.CollectionsExample" />
+  <component name="RunManager" selected="Application.WildCardExample">
+    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.GenericExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframework.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframework.collection.CompareExample" />
-      <module name="javapractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collectionframework.collection.*" />
+          <option name="PATTERN" value="generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +54,11 @@
       </method>
     </configuration>
     <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframework.map.HashMapExample" />
+      <option name="MAIN_CLASS_NAME" value="generic.HashMapExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframework.map.*" />
+          <option name="PATTERN" value="generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframework.collection.set.HashSetExample" />
+    <configuration name="IteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.IteratorExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframework.collection.set.*" />
+          <option name="PATTERN" value="generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframework.collection.set.TreeSetExample" />
+    <configuration name="LimitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.LimitExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframework.collection.set.*" />
+          <option name="PATTERN" value="generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WildCardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.WildCardExample" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionsExample" />
+        <item itemvalue="Application.WildCardExample" />
+        <item itemvalue="Application.LimitExample" />
         <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.CompareExample" />
+        <item itemvalue="Application.IteratorExample" />
+        <item itemvalue="Application.GenericExample" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +124,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659399241862</updated>
       <workItem from="1659399243400" duration="287000" />
-      <workItem from="1659399543063" duration="13881000" />
+      <workItem from="1659399543063" duration="15347000" />
+      <workItem from="1659485403923" duration="5868000" />
     </task>
     <servers />
   </component>
