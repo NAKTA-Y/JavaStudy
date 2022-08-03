@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7010643d-2fb1-4d57-8cd8-8264e5f10365" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic/GenericConversionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generic/GenericConversionExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WildCardExample">
-    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.GenericExample" />
+  <component name="RunManager" selected="Application.GenericConversionExample">
+    <configuration name="GenericConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.GenericConversionExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericConversionExample" />
         <item itemvalue="Application.WildCardExample" />
         <item itemvalue="Application.LimitExample" />
         <item itemvalue="Application.HashMapExample" />
         <item itemvalue="Application.IteratorExample" />
-        <item itemvalue="Application.GenericExample" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,7 @@
       <updated>1659399241862</updated>
       <workItem from="1659399243400" duration="287000" />
       <workItem from="1659399543063" duration="15347000" />
-      <workItem from="1659485403923" duration="5868000" />
+      <workItem from="1659485403923" duration="7325000" />
     </task>
     <servers />
   </component>
