@@ -39,13 +39,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CreateAnnotationExample">
-    <configuration name="AnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotation.AnnotationExample" />
+  <component name="RunManager" selected="Application.WaitNotifyExample">
+    <configuration name="DaemonThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.DaemonThreadExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotation.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotation.CreateAnnotationExample" />
+    <configuration name="ThreadPriorityExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadPriorityExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotation.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.GenericConversionExample" />
+    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.WaitNotifyExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LimitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.LimitExample" />
+    <configuration name="thread.IOBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.IOBlockExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildCardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.WildCardExample" />
+    <configuration name="thread.ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateAnnotationExample" />
-        <item itemvalue="Application.AnnotationExample" />
-        <item itemvalue="Application.GenericConversionExample" />
-        <item itemvalue="Application.WildCardExample" />
-        <item itemvalue="Application.LimitExample" />
+        <item itemvalue="Application.WaitNotifyExample" />
+        <item itemvalue="Application.thread.IOBlockExample" />
+        <item itemvalue="Application.DaemonThreadExample" />
+        <item itemvalue="Application.ThreadPriorityExample" />
+        <item itemvalue="Application.thread.ThreadExample" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <updated>1659399241862</updated>
       <workItem from="1659399243400" duration="287000" />
       <workItem from="1659399543063" duration="15347000" />
-      <workItem from="1659485403923" duration="10880000" />
+      <workItem from="1659485403923" duration="22465000" />
     </task>
     <servers />
   </component>
